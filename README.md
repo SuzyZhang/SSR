@@ -4,7 +4,7 @@
 
 ```
 yum -y install wget
-wget -N -–no-check-certificate https://raw.githubusercontent.com/SuzyZhang/SSR/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/SuzyZhang/SSR/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 ```
 > 仅 Vultr 需要先执行更换内核脚本
 ```
